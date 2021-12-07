@@ -21,6 +21,7 @@ export function SearchBar({
     <Container>
       <Input
         {...rest}
+        autoCapitalize="none"
         placeholderTextColor='#888D97'
       />
 

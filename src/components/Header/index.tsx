@@ -28,7 +28,7 @@ export function Header({ user }: HeaderProps) {
 
   function handleAddPass() {
     navigate('RegisterLoginData');
-  }
+  } 
 
   return (
     <Container
